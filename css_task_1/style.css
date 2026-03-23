@@ -1,0 +1,27 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#mainTitle {
+    color: white;
+    background-color: blue;
+    text-align: center;
+    font-size: 32px;
+    padding: 10px;
+}
+
+p {
+    font-size: 16px;
+    color: #333;
+    margin: 10px;
+}
+
+
+.highlight {
+    background-color: yellow;
+    font-family: "Courier New", monospace;
+    text-align: center;
+}
